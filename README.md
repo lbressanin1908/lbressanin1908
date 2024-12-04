@@ -1,6 +1,6 @@
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E2%9A%99%EF%B8%8FLuan+Bressanin%E2%9A%99%EF%B8%8F" alt="Typing SVG" /></a> 
 
-- 🔭 Sou um Engenheiro de Software
+- 🔭 Sou Engenheiro de Software
 - 🌱 Estudando para me tornar um desenvolvedor FullStack
 
 <div style="display: inline_block"><br>
